@@ -9,7 +9,7 @@ body {
 }
 
 header, footer {
-  background-color: #ffa500;
+  background-color: #fec5bb;
   text-align: left;
 /*  min-width: 500px; */
 }
@@ -28,12 +28,12 @@ main {
 }
 
 h2 {
-  font-family: Poppins;
+  font-family: 'Roboto', sans-serif;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #ffa500;
+  color: #fec5bb;
   padding: 10px 0px 10px 10px;
 }
 
@@ -52,7 +52,7 @@ img {
 .bio {
   color: #ffffff;
   font-size: 24px;
-  font-family: 'Work Sans';
+  font-family: 'Roboto', sans-serif;
 }
 
 .buttonBox {
@@ -73,7 +73,7 @@ img {
 }
 
 .myButton:hover {
-    background-color:#e69708;
+    background-color:#fcd5ce;
 }
 
 .myButton:active {
@@ -139,4 +139,8 @@ img {
 
 footer {
   margin-top: 44px;
+}
+
+a {
+  color: #fec5bb;
 }
